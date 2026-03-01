@@ -3,6 +3,7 @@ plugins {
     id 'application'
     id 'org.openjfx.javafxplugin'      version '0.0.14'
     id 'org.beryx.jlink'               version '2.26.0'
+    id 'org.sonarqube'                 version '5.0.0.4638'
 }
 
 application {
